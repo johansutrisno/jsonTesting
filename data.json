@@ -1,0 +1,98 @@
+{
+	"cemani": [
+		{
+			"jeniskelamin": 0,
+			"umur": "1 bulan",
+			"harga": 110000
+		},
+		{
+			"jeniskelamin": 0,
+			"umur": "2 bulan",
+			"harga": 150000
+		},
+		{
+			"jeniskelamin": 0,
+			"umur": "3 bulan",
+			"harga": 200000
+		},
+		{
+			"jeniskelamin": 0,
+			"umur": "4 bulan",
+			"harga": 300000
+		},
+		{
+			"jeniskelamin": 0,
+			"umur": "5 bulan",
+			"harga": 500000
+		},
+		{
+			"jeniskelamin": 2,
+			"umur": "dewasa",
+			"harga": 2000000
+		},
+		{
+			"jeniskelamin": 1,
+			"umur": "dewasa",
+			"harga": 4000000
+		}
+	],
+	"limosin": [
+		{
+			"jeniskelamin": 0,
+			"umur": "bakalan",
+			"harga": 48000	
+		},
+		{
+			"jeniskelamin": 0,
+			"umur": "5-6 bulan",
+			"harga": 12000000
+		},
+		{
+			"jeniskelamin": 0,
+			"umur": "6-8 bulan",
+			"harga": 1750000	
+		},
+		{
+			"jeniskelamin": 0,
+			"umur": "8-10 bulan",
+			"harga": 19300000
+		},
+		{
+			"jeniskelamin": 0,
+			"umur": "dewasa 1-2 tahun",
+			"harga": 22000000
+		}
+	],
+	"garut": [
+		{
+			"jeniskelamin": 2,
+			"umur": "5-6 bulan",
+			"harga": 900000
+		},
+		{
+			"jeniskelamin": 2,
+			"umur": "7-8 bulan",
+			"harga": 1100000
+		},
+		{
+			"jeniskelamin": 2,
+			"umur": "9-12 bulan",
+			"harga": 1300000
+		},
+		{
+			"jeniskelamin": 1,
+			"umur": "5-6 bulan",
+			"harga": 1500000
+		},
+		{
+			"jeniskelamin": 1,
+			"umur": "7-8 bulan",
+			"harga": 1650000
+		},
+		{
+			"jeniskelamin": 1,
+			"umur": "9-12 bulan",
+			"harga": 1900000
+		}
+	]
+}
